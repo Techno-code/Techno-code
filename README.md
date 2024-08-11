@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Techno-code
-- 👀 Fun fact: I'm dumb
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing because I kinda suck
-- 📫 How to reach me: https://www.youtube.com/watch?v=dQw4w9WgXcQ <- This youtube vid leads to my channel :)
+- 👋 Hi, I’m @Techno-code (don't judge I made this account when I was 12)
+- 👀 Currently doing Full-end development
+- 🌱 Knowledge in Python, HTMl/CSS, Javascript
+- 💞️ Looking to collaborate in small open source projects
+- 📫 How to reach me: https://www.instagram.com/one.toos.tutoring/ (Instagram Business account)
 
 <!---
 Techno-code/Techno-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
