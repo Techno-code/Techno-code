@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Techno-code (don't judge I made this account when I was 12)
-- 👀 Currently doing Full-end development
-- 🌱 Knowledge in Python, HTMl/CSS, Javascript
-- 💞️ Looking to collaborate in small open source projects
-- 📫 How to reach me: https://www.instagram.com/one.toos.tutoring/ (Instagram Business account)
+Hello everyone, my name is Shangru Yang, but you can call me Sean! I love to code and create fun and interesting projects in python and reactjs. Check out my youtube channel where I make songs and song covers: https://www.youtube.com/@SeanYLMusic
+
+Also check out my business, reach out if you are interested in tutoring services: 
 
 <!---
 Techno-code/Techno-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
